@@ -1,4 +1,4 @@
-InfoSaône / OpenERP Tutoriel 04
+InfoSaône / OpenERP Tutoriel 04 - Gestion des menus
 ===================
 
 Le but de ce module est de montrer comment créer ou modifier des menus dans l'interface.
